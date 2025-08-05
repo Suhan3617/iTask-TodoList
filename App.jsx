@@ -65,7 +65,7 @@ function App() {
       <Navbar />
       <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-violet-100 min-h-[80vh] md:w-1/2">
         <h1 className="text-center font-bold text-3xl">
-          iTask - The Ulimate Todos Manager
+          iTask - The Ulimate Todos Manager !
         </h1>
         <div>
           <div className="addTodo my-5 flex flex-col gap-4">
